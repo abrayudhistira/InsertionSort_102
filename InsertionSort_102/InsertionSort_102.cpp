@@ -30,3 +30,9 @@ void input()
         cout << "Data ke-" << (i + 1) << ": ";  //memasukkan atau menginputkan data
         cin >> arr[i];                          //memasukkan nilai data n kedalam array
     }
+};
+//Procedure Insertion Sort
+void insertionsort()
+{
+    int temp; //membuat variable daya temporer atau penyimpanan sementara
+}
