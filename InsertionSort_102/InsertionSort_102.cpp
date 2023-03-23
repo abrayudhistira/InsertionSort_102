@@ -21,3 +21,4 @@ void input()
         }
     }
     cout << endl;                               //membuat jarak per baris program
+    cout << "=====================" << endl;    //membuat tampilan susunan data element array
