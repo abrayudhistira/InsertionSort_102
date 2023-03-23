@@ -26,3 +26,5 @@ void input()
     cout << "=====================" << endl;
 
     for (int i = 0; i < n; i++)     //menggunakan perulangan for untuk menyimpan data pada array
+    {
+        cout << "Data ke-" << (i + 1) << ": ";  //memasukkan atau menginputkan data
