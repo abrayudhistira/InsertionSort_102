@@ -35,4 +35,5 @@ void input()
 void insertionsort()
 {
     int temp; //membuat variable daya temporer atau penyimpanan sementara
+    int j; //membuat variabel j sebagai tanda
 }
